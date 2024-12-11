@@ -1,0 +1,7 @@
+requests
+imageio
+imageio-ffmpeg
+
+tflite-runtime 
+opencv-python-headless 
+numpy

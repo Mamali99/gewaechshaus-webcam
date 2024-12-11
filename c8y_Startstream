@@ -1,0 +1,4 @@
+[exec]
+  topic = "c8y/s/dc/greenhousewebcam"
+  on_message = "541"
+  command = "/bin/c8y_Startstream.py"
